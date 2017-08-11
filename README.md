@@ -4,7 +4,7 @@ Dreamweaver's wombat color scheme for Brackets.
 based on Vlad Saling's [Wombatish](https://github.com/vlad-saling/wombatish)
 
 Current applied styles:
-HTML, CSS, SCSS, LESS, JS, JSON. 
+HTML, CSS, SCSS, LESS, JS, JSON, PHP. 
 
 ## Screenshot
 
