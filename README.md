@@ -13,6 +13,8 @@ HTML, CSS, SCSS, LESS, JS, JSON, PHP.
 
 ## Changelog
 
+v 1.0.2: Tweaked the selected text background color again :)
+v 1.0.1: Tweaked the selected text background color
 v 1.0.0: Initial commit
 
 ## License
